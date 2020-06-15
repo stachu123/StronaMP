@@ -1,0 +1,168 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family: monospace;
+}
+.row
+{
+    max-width: 100%;
+    align-content: right;
+    position: relative;
+    padding-left: 1550px;
+    padding-top: 20px;
+    
+ 
+    
+}
+
+.nav-bar li
+{
+    position: relative;
+    display: inline-block;
+}
+
+.nav-bar li.active a
+{
+    position: relative;
+    border: 1px solid white;
+    
+}
+
+.nav-bar a:hover
+{
+    position: relative;
+    border: 1px solid white;
+}
+
+
+.nav-bar li a
+{
+    position: relative;
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    margin-right: 5px;
+}
+
+.txt
+{
+    position: absolute;
+    width: 1920px;
+    margin-left: 0px;
+    margin-top: 0px;
+    
+}
+
+
+#h1
+{
+    color: white;
+    font-size: 50px;
+    text-align: right;
+    margin-top: 90px;
+    margin-right: 25px;
+    
+}
+header
+{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(la-la-land-1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+#p1
+{
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 60px;
+    margin-right: 25px;
+    margin-left: 1050px
+}
+#img_hansen
+{
+    margin-top:40px;
+    margin-left: 20px
+}
+#img_six
+{
+    margin-left: 20px;
+}
+#img_heathers
+{
+    margin-left: 20px;
+}
+#img_hamilton
+{
+   margin-left: 20px; 
+}
+#img_wicked
+{
+    margin-left: 20px; 
+    margin-top: 20px;
+}
+
+#img_poppins
+{
+    margin-left: 20px; 
+}
+#img_chicago
+{
+   margin-left: 20px;  
+}
+#img_mamma
+{
+    margin-left: 20px;
+    margin-bottom: 80px;
+}
+#h1_ranking
+{
+    color: white;
+    font-size: 25px;
+    text-align: left;
+    margin-top: 60px;
+    margin-right: 25px;
+    margin-left: 1050px; 
+}
+#id_hamilton
+{
+    color: white;
+    font-size: 18px;
+    text-align: left;
+    margin-top: 30px;
+     margin-right: 25px;
+    margin-left: 1050px;  
+}
+#id_chicago
+{
+     color: white;
+    font-size: 18px;
+    text-align: left;
+    margin-top: 30px;
+     margin-right: 25px;
+    margin-left: 1050px; 
+}
+#id_lalaland
+{
+    color: white;
+    font-size: 18px;
+    text-align: left;
+    margin-top: 30px;
+    margin-right: 25px;
+    margin-left: 1050px; 
+    
+}
+
+
+
+
+
+
